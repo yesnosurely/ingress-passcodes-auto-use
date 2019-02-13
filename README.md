@@ -1,4 +1,5 @@
 <h1>ingress passcodes auto use</h1>
+<img src="https://raw.githubusercontent.com/yesnosurely/ingress-passcodes-auto-use/master/preview.JPG">
 
 ## Установка
 <ul>
@@ -13,6 +14,7 @@
 <li>В боковой панеле найдите область с названием "passcodes"</li>
 <li>Вставьте ваш список пасскодов и нажмите Enter</li>
 </ul>
+
 
 ## Installation
 <ul>
