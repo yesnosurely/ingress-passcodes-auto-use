@@ -33,8 +33,9 @@ $(document).ready(function(){
 
     function use() {
         let el = $('.pscdss');
+        let data = el.val()
         let lines = [];
-        $.each($('textarea').val().split(/\n/), function(i, line){
+        $.each(data.split(/\n/), function(i, line){
             if(line && line.length){
                 lines.push(line);
             }
